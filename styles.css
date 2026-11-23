@@ -31,7 +31,7 @@ footer{
 .booking-heading h2{font-family:"Italiana",serif}
 .booking form>h3{font-family:"Italiana",serif;text-transform:none}
 footer{height:auto;min-height:270px;display:block;padding:4rem 0 1.5rem;border-top:1px solid var(--gold)}
-.footer-grid{display:grid;grid-template-columns:1.5fr 1fr .7fr 1fr;gap:4rem;align-items:start}
+.footer-grid{display:grid;grid-template-columns:1.5fr 1fr .7fr;gap:4rem;align-items:start}
 .footer-brand img{display:block;width:230px;height:auto;max-height:100px;object-fit:contain;margin-bottom:1rem}
 .footer-grid h2{font:400 1rem/1 "Italiana",serif;text-transform:uppercase;color:var(--gold);margin:0 0 1rem;letter-spacing:.08em}
 .footer-grid p,.footer-grid a{font-family:"DM Sans",sans-serif;font-size:.82rem;line-height:1.8;color:#dfcbc4;text-decoration:none}
